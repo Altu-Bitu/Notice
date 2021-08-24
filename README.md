@@ -29,7 +29,7 @@ ex) 9월 3일 튜터링 → 9월 2일 오후 11시 59분까지 과제 업로드
 
 ```cpp
 int hello_world; //변수
-int helloWorld //함수
+int helloWorld() //함수
 const int HELLO_WORLD //상수
 ```
 
