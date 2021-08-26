@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAltu-Bitu%2FNotice&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 [원스탑 튜터링](https://cyber.ewha.ac.kr/course/view.php?id=84685)에서 진행하는 코딩 테스트 대비 알고리즘 튜터링 `알튜비튜`의 튜터 레포지토리입니다.
 
 튜터링에서 작성한 `라이브 코딩 코드`와 `과제 답안 코드`를 업로드 할 예정입니다.
