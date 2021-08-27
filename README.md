@@ -12,6 +12,30 @@
 
     ex) 9월 3일 6시 30분 튜터링 → 9월 10일 6시 30분 전까지 업로드
 
+---   
+## ✏️ 커리큘럼   
+|    날짜    | 주제 | 담당 튜터 | 강의 자료 | 문제 |
+|:----------:|:----:|:---------:|:---------:|:----:|
+| 2021.08.31 |  OT  |     -     |[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/0.%20OT.pdf)|-|
+| 2021.09.03 |정렬|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
+| 2021.09.07 |맵, 셋|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
+| 2021.09.10 |스택, 큐, 덱|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
+| 2021.09.14 |우선순위 큐|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
+| 2021.09.17 |정수론 및 조합론|[@Sua Bae](https://github.com/bsa0322)|           |       |
+| 2021.09.21 |브루트 포스|[@Sua Bae](https://github.com/bsa0322)|           |       |
+| 2021.09.24 |백트래킹|[@Sua Bae](https://github.com/bsa0322)|           |       |
+| 2021.09.28 |동적 계획법|[@Sua Bae](https://github.com/bsa0322)|           |       |
+| 2021.10.01 |그리디 알고리즘|[@Sua Bae](https://github.com/bsa0322)|           |       |
+| 2021.10.05 |분할 정복|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
+| 2021.10.08 |이분 탐색|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
+| 2021.10.12 |투 포인터|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
+| 2021.10.15 |DFS & BFS|[@Sua Bae](https://github.com/bsa0322)|           |       |
+| 2021.11.02 |최단 경로|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
+| 2021.11.09 |동적 계획법과 최단 거리 역추적|[@Sua Bae](https://github.com/bsa0322)|           |       |
+| 2021.11.16 |트리|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
+| 2021.11.23 |유니온 파인드|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
+| 2021.11.30 |최소 신장 트리|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
+| 2021.12.07 |위상 정렬|[@Sua Bae](https://github.com/bsa0322)|           |       |   
 ---
 
 ## 🤙 규칙
