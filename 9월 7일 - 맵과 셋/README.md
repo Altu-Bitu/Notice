@@ -1,4 +1,4 @@
-# 맵과 셋
+# 맵과 셋 (Map, Set)
 
 [메인으로 돌아가기](https://github.com/Altu-Bitu/Notice)
 
@@ -8,10 +8,10 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/10867" target="_blank">10867</a>|<a href="https://www.acmicpc.net/problem/10867" target="_blank">중복 빼고 정렬하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|  ||
-|-|[hash](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/2.%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B.pdf)|-|  ||
-|<a href="https://www.acmicpc.net/problem/1620" target="_blank">1620</a>|<a href="https://www.acmicpc.net/problem/1620" target="_blank">나는야 포켓몬 마스터 이다솜</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|  ||
-|<a href="https://www.acmicpc.net/problem/2002" target="_blank">2002</a>|<a href="https://www.acmicpc.net/problem/2002" target="_blank">추월</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|  ||
+|<a href="https://www.acmicpc.net/problem/10867" target="_blank">10867</a>|<a href="https://www.acmicpc.net/problem/10867" target="_blank">중복 빼고 정렬하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%207%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/10867.cpp)|셋|
+|-|[hash](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/2.%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B.pdf)|-|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%207%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/hash.cpp)|해싱|
+|<a href="https://www.acmicpc.net/problem/1620" target="_blank">1620</a>|<a href="https://www.acmicpc.net/problem/1620" target="_blank">나는야 포켓몬 마스터 이다솜</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%207%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/1620.cpp)|맵|
+|<a href="https://www.acmicpc.net/problem/2002" target="_blank">2002</a>|<a href="https://www.acmicpc.net/problem/2002" target="_blank">추월</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%207%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/2002.cpp)|맵, 완전탐색|
 
 
 ## ✏️ 과제
