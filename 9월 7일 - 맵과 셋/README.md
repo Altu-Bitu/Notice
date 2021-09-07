@@ -1,4 +1,4 @@
-# 정렬 (Sort)
+# 맵과 셋
 
 [메인으로 돌아가기](https://github.com/Altu-Bitu/Notice)
 
