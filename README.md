@@ -18,7 +18,7 @@
 |:----------:|:----:|:---------:|:---------:|:----:|
 | 2021.08.31 |  OT  |     -     |[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/0.%20OT.pdf)|-|
 | 2021.09.03 |정렬|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/1.%20%EC%A0%95%EB%A0%AC.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/9%EC%9B%94%203%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC)|
-| 2021.09.07 |맵과 셋|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
+| 2021.09.07 |맵과 셋|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/2.%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/9%EC%9B%94%207%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B)|
 | 2021.09.10 |스택, 큐, 덱|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
 | 2021.09.14 |우선순위 큐|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
 | 2021.09.17 |정수론 및 조합론|[@Sua Bae](https://github.com/bsa0322)|           |       |
