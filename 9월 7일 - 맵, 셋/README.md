@@ -43,6 +43,20 @@
 ### 힌트
 
 <details>
+<summary>요요 시뮬레이션</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;문제를 꼼꼼히 읽어보며 필요한 연산이 무엇인지 찾아보아요! c++ 에서 음수의 나눗셈을 어떻게 처리하는지도 알아봐야 할 것 같아요.
+</div>
+</details>
+
+<details>
+<summary>큰 수 A+B</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;그냥 더하기엔 숫자가 너무 커요. 손 풀이로 덧셈하는 과정을 생각해보세요! 이 과정을 배열을 사용하여 구현할 수 있지 않을까요?
+</div>
+</details>
+
+<details>
 <summary>듣보잡</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;Search에 최적화된 컨테이너
@@ -73,7 +87,7 @@
 <details>
 <summary>좌표 압축</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;시간이 부족하신가요? <a href="https://www.acmicpc.net/problem/15552" target="_blank">15552번</a>이 도움될지도 모르겠어요. 만약 set으로 문제를 풀고 있다면, BST와 같은 방식으로 데이터를 찾는 함수를 구현해보는건 어떨까요? 이건 아직 다루지 않은 부분이므로 튜터에게 요청하면 해당 부분 코드를 드릴게요
+&nbsp;&nbsp;&nbsp;&nbsp;시간이 부족하신가요? [15552번](https://www.acmicpc.net/problem/15552)이 도움될지도 모르겠어요. 만약 set으로 문제를 풀고 있다면, BST와 같은 방식으로 데이터를 찾는 함수를 구현해보는건 어떨까요? 이건 아직 다루지 않은 부분이므로 튜터에게 요청하면 해당 부분 코드를 드릴게요
 </div>
 </details>
 
