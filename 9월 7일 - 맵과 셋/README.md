@@ -87,7 +87,7 @@
 <details>
 <summary>좌표 압축</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;시간이 부족하신가요? [15552번](https://www.acmicpc.net/problem/15552)이 도움될지도 모르겠어요. 만약 set으로 문제를 풀고 있다면, BST와 같은 방식으로 데이터를 찾는 함수를 구현해보는건 어떨까요? 이건 아직 다루지 않은 부분이므로 튜터에게 요청하면 해당 부분 코드를 드릴게요
+&nbsp;&nbsp;&nbsp;&nbsp;시간이 부족하신가요? <a href="https://www.acmicpc.net/problem/15552" target="_blank">15552번</a>이 도움될지도 모르겠어요. 만약 set으로 문제를 풀고 있다면, BST와 같은 방식으로 데이터를 찾는 함수를 구현해보는건 어떨까요? 이건 아직 다루지 않은 부분이므로 튜터에게 요청하면 해당 부분 코드를 드릴게요
 </div>
 </details>
 
