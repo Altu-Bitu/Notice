@@ -16,16 +16,6 @@
 
 ## ✏️ 과제
 
-### 필수
-
-|문제 번호|문제 이름|난이도|풀이 링크|분류|
-| :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/11723" target="_blank">11723</a>|<a href="https://www.acmicpc.net/problem/11723" target="_blank">집합 </a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|  ||
-|<a href="https://www.acmicpc.net/problem/3613" target="_blank">3613</a>|<a href="https://www.acmicpc.net/problem/3613" target="_blank">Java vs C++</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|  ||
-
-
----
-
 ### 선택
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
