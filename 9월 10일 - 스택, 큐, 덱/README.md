@@ -20,24 +20,19 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/10866" target="_blank">10866</a>|<a href="https://www.acmicpc.net/problem/10866" target="_blank">덱</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|  ||
-|<a href="https://www.acmicpc.net/problem/1935" target="_blank">1935</a>|<a href="https://www.acmicpc.net/problem/1935" target="_blank">후위 표기식 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|  ||
 |<a href="https://programmers.co.kr/learn/courses/30/lessons/64061" target="_blank">4358</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/64061" target="_blank">크레인 인형뽑기 게임</a>|level 1|  ||
 |<a href="https://www.acmicpc.net/problem/1918" target="_blank">1918</a>|<a href="https://www.acmicpc.net/problem/1918" target="_blank">후위 표기식</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|  ||
+|<a href="https://www.acmicpc.net/problem/1935" target="_blank">1935</a>|<a href="https://www.acmicpc.net/problem/1935" target="_blank">후위 표기식 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|  ||
 |<a href="https://www.acmicpc.net/problem/5430" target="_blank">5430</a>|<a href="https://www.acmicpc.net/problem/5430" target="_blank">AC </a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|  ||
+|<a href="https://www.acmicpc.net/problem/10866" target="_blank">10866</a>|<a href="https://www.acmicpc.net/problem/10866" target="_blank">덱</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|  ||
+|<a href="https://www.acmicpc.net/problem/20920" target="_blank">20920</a>|<a href="https://www.acmicpc.net/problem/20920" target="_blank">영단어 암기는 괴로워</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|  ||
+
 
 
 
 ---
 
 ### 힌트
-
-<details>
-<summary>덱</summary>
-<div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;직접 구현해보고 싶으시다면 덱도 '큐'에 속한다는걸 떠올려보세요
-</div>
-</details>
 
 <details>
 <summary>크레인 인형뽑기</summary>
@@ -59,4 +54,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;함수 R에서 꼭 함수를 뒤집을 필요가 있을까요?
 </div>
 </details>
+
+<details>
+<summary>덱</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;직접 구현해보고 싶으시다면 덱도 '큐'에 속한다는걸 떠올려보세요
+</div>
+</details>
+
+
+
+
+
 
