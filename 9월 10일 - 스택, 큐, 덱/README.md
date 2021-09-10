@@ -8,10 +8,10 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/10828" target="_blank">10828</a>|<a href="https://www.acmicpc.net/problem/10828" target="_blank">스택</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/10845" target="_blank">10845</a>|<a href="https://www.acmicpc.net/problem/10845" target="_blank">큐</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/4949" target="_blank">4949</a>|<a href="https://www.acmicpc.net/problem/4949" target="_blank">균형잡힌 세상</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/2164" target="_blank">2164</a>|<a href="https://www.acmicpc.net/problem/2164" target="_blank">카드2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/10828" target="_blank">10828</a>|<a href="https://www.acmicpc.net/problem/10828" target="_blank">스택</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2010%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/10828.cpp)|스택|
+|<a href="https://www.acmicpc.net/problem/10845" target="_blank">10845</a>|<a href="https://www.acmicpc.net/problem/10845" target="_blank">큐</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2010%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/10845.cpp)|큐|
+|<a href="https://www.acmicpc.net/problem/4949" target="_blank">4949</a>|<a href="https://www.acmicpc.net/problem/4949" target="_blank">균형잡힌 세상</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2010%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/4949.cpp)|스택|
+|<a href="https://www.acmicpc.net/problem/2164" target="_blank">2164</a>|<a href="https://www.acmicpc.net/problem/2164" target="_blank">카드2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2010%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/2164.cpp)|큐|
 
 
 ## ✏️ 과제
