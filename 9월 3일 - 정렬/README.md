@@ -19,8 +19,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1316" target="_blank">1316</a>|<a href="https://www.acmicpc.net/problem/1316" target="_blank">그룹 단어 체커</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|  |  |
-|<a href="https://www.acmicpc.net/problem/13458" target="_blank">13458</a>|<a href="https://www.acmicpc.net/problem/13458" target="_blank">시험 감독</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|  |  |
+|<a href="https://www.acmicpc.net/problem/1316" target="_blank">1316</a>|<a href="https://www.acmicpc.net/problem/1316" target="_blank">그룹 단어 체커</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%203%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1316.cpp)|구현, 문자열|
+|<a href="https://www.acmicpc.net/problem/13458" target="_blank">13458</a>|<a href="https://www.acmicpc.net/problem/13458" target="_blank">시험 감독</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%203%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/13458.cpp)|구현, 수학|
 
 
 ---
@@ -29,12 +29,12 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1026" target="_blank">1026</a>|<a href="https://www.acmicpc.net/problem/1026" target="_blank">보물</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|  ||
-|<a href="https://www.acmicpc.net/problem/1431" target="_blank">1431</a>|<a href="https://www.acmicpc.net/problem/1431" target="_blank">시리얼 번호</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|  ||
-|<a href="https://www.acmicpc.net/problem/1946" target="_blank">1946</a>|<a href="https://www.acmicpc.net/problem/1946" target="_blank">신입 사원</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|  ||
-|<a href="https://www.acmicpc.net/problem/10994" target="_blank">10994</a>|<a href="https://www.acmicpc.net/problem/10994" target="_blank">별 찍기 - 19</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|  ||
-|<a href="https://www.acmicpc.net/problem/11399" target="_blank">11399</a>|<a href="https://www.acmicpc.net/problem/11399" target="_blank">ATM</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|  ||
-|<a href="https://www.acmicpc.net/problem/11651" target="_blank">11651</a>|<a href="https://www.acmicpc.net/problem/11651" target="_blank">좌표 정렬하기 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|  ||
+|<a href="https://www.acmicpc.net/problem/1026" target="_blank">1026</a>|<a href="https://www.acmicpc.net/problem/1026" target="_blank">보물</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%203%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1026.cpp)|정렬, 수학|
+|<a href="https://www.acmicpc.net/problem/1431" target="_blank">1431</a>|<a href="https://www.acmicpc.net/problem/1431" target="_blank">시리얼 번호</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%203%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1431.cpp)|정렬|
+|<a href="https://www.acmicpc.net/problem/1946" target="_blank">1946</a>|<a href="https://www.acmicpc.net/problem/1946" target="_blank">신입 사원</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%203%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/1946.cpp)|정렬, 그리디|
+|<a href="https://www.acmicpc.net/problem/10994" target="_blank">10994</a>|<a href="https://www.acmicpc.net/problem/10994" target="_blank">별 찍기 - 19</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%203%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/10994.cpp)|구현, 재귀|
+|<a href="https://www.acmicpc.net/problem/11399" target="_blank">11399</a>|<a href="https://www.acmicpc.net/problem/11399" target="_blank">ATM</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%203%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/11399.cpp)|정렬, 그리디|
+|<a href="https://www.acmicpc.net/problem/11651" target="_blank">11651</a>|<a href="https://www.acmicpc.net/problem/11651" target="_blank">좌표 정렬하기 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%203%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/11651.cpp)|정렬|
 
 
 ---
