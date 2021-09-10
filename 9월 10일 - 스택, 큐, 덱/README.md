@@ -35,9 +35,16 @@
 ### 힌트
 
 <details>
-<summary>크레인 인형뽑기</summary>
+<summary>크레인 인형뽑기 게임</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp; 가장 최근에 투입된 인형이 제일 먼저 뽑힐 것 같아요.
+</div>
+</details>
+
+<details>
+<summary>후위 표기식</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;후위 표기식에 대해 알아보아요. 후위 표기식은 연산자와 피연산자의 순위도 다르고, 연산자끼리의 순위도 달라요. 연산자 우선순위를 어떻게 고려해야 중위 표기식을 후위 표기식으로 바꿀 수 있을까요? <a href="https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2010%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1/%EA%B3%BC%EC%A0%9C/Hint%20-%201918.pdf" target="_blank">구현 힌트</a>
 </div>
 </details>
 
@@ -51,7 +58,7 @@
 <details>
 <summary>AC</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;함수 R에서 꼭 함수를 뒤집을 필요가 있을까요?
+&nbsp;&nbsp;&nbsp;&nbsp;함수 R에서 꼭 배열을 뒤집을 필요가 있을까요?
 </div>
 </details>
 
@@ -59,6 +66,13 @@
 <summary>덱</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;직접 구현해보고 싶으시다면 덱도 '큐'에 속한다는걸 떠올려보세요
+</div>
+</details>
+
+<details>
+<summary>국영수</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;영단어에 대한 조건이 많네요. 비슷한 문제를 풀었던 것 같지 않나요? 단어 횟수 카운트도 전에 배운 컨테이너 중 하나를 활용할 수 있을 것 같아요.
 </div>
 </details>
 
