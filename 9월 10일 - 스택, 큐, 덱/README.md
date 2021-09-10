@@ -20,7 +20,7 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/64061" target="_blank">4358</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/64061" target="_blank">크레인 인형뽑기 게임</a>|level 1|  ||
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/64061" target="_blank">2019 카카오 개발자 겨울 인턴십</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/64061" target="_blank">크레인 인형뽑기 게임</a>|level 1|  ||
 |<a href="https://www.acmicpc.net/problem/1918" target="_blank">1918</a>|<a href="https://www.acmicpc.net/problem/1918" target="_blank">후위 표기식</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|  ||
 |<a href="https://www.acmicpc.net/problem/1935" target="_blank">1935</a>|<a href="https://www.acmicpc.net/problem/1935" target="_blank">후위 표기식 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|  ||
 |<a href="https://www.acmicpc.net/problem/5430" target="_blank">5430</a>|<a href="https://www.acmicpc.net/problem/5430" target="_blank">AC </a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|  ||
