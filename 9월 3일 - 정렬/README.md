@@ -101,4 +101,4 @@
 
 ### 코드리뷰 가이드
 
-🔗 [링크](https://www.notion.so/0903-8d859692616e4b9d8919bec5f20873d4)
+🔗 [링크](https://educated-treatment-631.notion.site/0903-8d859692616e4b9d8919bec5f20873d4)
