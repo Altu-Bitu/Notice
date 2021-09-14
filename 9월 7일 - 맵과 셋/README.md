@@ -20,8 +20,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/19636" target="_blank">19636</a>|<a href="https://www.acmicpc.net/problem/19636" target="_blank">요요 시뮬레이션 </a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|  ||
-|<a href="https://www.acmicpc.net/problem/10757" target="_blank">10757</a>|<a href="https://www.acmicpc.net/problem/10757" target="_blank">큰 수 A+B</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/>|  ||
+|<a href="https://www.acmicpc.net/problem/19636" target="_blank">19636</a>|<a href="https://www.acmicpc.net/problem/19636" target="_blank">요요 시뮬레이션 </a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%207%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EA%B3%BC%EC%A0%9C/19636.cpp)|구현|
+|<a href="https://www.acmicpc.net/problem/10757" target="_blank">10757</a>|<a href="https://www.acmicpc.net/problem/10757" target="_blank">큰 수 A+B</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%207%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EA%B3%BC%EC%A0%9C/10757.cpp)|구현|
 
 
 ---
@@ -30,12 +30,12 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1764" target="_blank">1764</a>|<a href="https://www.acmicpc.net/problem/1764" target="_blank">듣보잡</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|  ||
-|<a href="https://www.acmicpc.net/problem/2015" target="_blank">2015</a>|<a href="https://www.acmicpc.net/problem/2015" target="_blank">수들의 합 4</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|  ||
-|<a href="https://www.acmicpc.net/problem/4358" target="_blank">4358</a>|<a href="https://www.acmicpc.net/problem/4358" target="_blank">생태학</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|  ||
-|<a href="https://www.acmicpc.net/problem/9375" target="_blank">9375</a>|<a href="https://www.acmicpc.net/problem/9375" target="_blank">패션왕 신해빈</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|  ||
-|<a href="https://www.acmicpc.net/problem/18870" target="_blank">18870</a>|<a href="https://www.acmicpc.net/problem/18870" target="_blank">좌표 압축</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|  ||
-|<a href="https://www.acmicpc.net/problem/14425" target="_blank">14425</a>|<a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|  ||
+|<a href="https://www.acmicpc.net/problem/1764" target="_blank">1764</a>|<a href="https://www.acmicpc.net/problem/1764" target="_blank">듣보잡</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%207%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EA%B3%BC%EC%A0%9C/1764.cpp)|셋|
+|<a href="https://www.acmicpc.net/problem/2015" target="_blank">2015</a>|<a href="https://www.acmicpc.net/problem/2015" target="_blank">수들의 합 4</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%207%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EA%B3%BC%EC%A0%9C/2015.cpp)|맵, 누적합|
+|<a href="https://www.acmicpc.net/problem/4358" target="_blank">4358</a>|<a href="https://www.acmicpc.net/problem/4358" target="_blank">생태학</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%207%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EA%B3%BC%EC%A0%9C/4358.cpp)|맵, 문자열|
+|<a href="https://www.acmicpc.net/problem/9375" target="_blank">9375</a>|<a href="https://www.acmicpc.net/problem/9375" target="_blank">패션왕 신해빈</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%207%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EA%B3%BC%EC%A0%9C/9375.cpp)|맵, 수학|
+|<a href="https://www.acmicpc.net/problem/18870" target="_blank">18870</a>|<a href="https://www.acmicpc.net/problem/18870" target="_blank">좌표 압축</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%207%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EA%B3%BC%EC%A0%9C/18870_1.cpp)</br>[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%207%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EA%B3%BC%EC%A0%9C/18870_2.cpp)|셋, 이분 탐색, 정렬|
+|<a href="https://www.acmicpc.net/problem/14425" target="_blank">14425</a>|<a href="https://www.acmicpc.net/problem/14425" target="_blank">문자열 집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%207%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B/%EA%B3%BC%EC%A0%9C/14425.cpp)||
 
 
 ---
@@ -97,3 +97,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;set은 검색, 삽입, 삭제가 가능하다 했었죠?
 </div>
 </details>
+
+---
+
+### 코드리뷰 가이드
+
+🔗 [링크](https://educated-treatment-631.notion.site/0907-07c0b79eebd54e98a87e46c67d7031a8)
+
