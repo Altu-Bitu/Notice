@@ -47,7 +47,7 @@
 </details>
 
 <details>
-<summary>민트초코</summary>
+<summary>민트 초코</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;연산은 *와 / 밖에 없네요! 연산한 최종 결과로 판단하지 않고, 과정에서 판단할 수 있는 방법이 없을까요? 수는 분해가 가능하죠.
 </div>
