@@ -9,7 +9,7 @@
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 |<a href="https://www.acmicpc.net/problem/11279" target="_blank">11279</a>|<a href="https://www.acmicpc.net/problem/11279" target="_blank">최대 힙</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2014%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/11279.cpp)|우선순위 큐|
-|<a href="https://www.acmicpc.net/problem/2075" target="_blank">2075</a>|<a href="https://www.acmicpc.net/problem/2075" target="_blank">N번째 큰 수</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2014%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/2075.cpp)|우선순위 |
+|<a href="https://www.acmicpc.net/problem/2075" target="_blank">2075</a>|<a href="https://www.acmicpc.net/problem/2075" target="_blank">N번째 큰 수</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2014%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/2075.cpp)|우선순위 큐|
 
 ## ✏️ 과제
 
