@@ -17,8 +17,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/11723" target="_blank">11723</a>|<a href="https://www.acmicpc.net/problem/11723" target="_blank">집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/3613" target="_blank">3613</a>|<a href="https://www.acmicpc.net/problem/3613" target="_blank">Java vs C++</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/11723" target="_blank">11723</a>|<a href="https://www.acmicpc.net/problem/11723" target="_blank">집합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2014%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EA%B3%BC%EC%A0%9C/11723_1.cpp)</br>[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2014%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EA%B3%BC%EC%A0%9C/11723_2.cpp)|구현, 비트마스킹|
+|<a href="https://www.acmicpc.net/problem/3613" target="_blank">3613</a>|<a href="https://www.acmicpc.net/problem/3613" target="_blank">Java vs C++</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2014%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EA%B3%BC%EC%A0%9C/3613.cpp)|구현, 문자열|
 
 ---
 
@@ -26,12 +26,12 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2493" target="_blank">2493</a>|<a href="https://www.acmicpc.net/problem/2493" target="_blank">탑</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/7662" target="_blank">7662</a>|<a href="https://www.acmicpc.net/problem/7662" target="_blank">이중 우선순위 큐</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/11000" target="_blank">11000</a>|<a href="https://www.acmicpc.net/problem/11000" target="_blank">강의실 배정</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/11286" target="_blank">11286</a>|<a href="https://www.acmicpc.net/problem/11286" target="_blank">절댓값 힙</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/12018" target="_blank">12018</a>|<a href="https://www.acmicpc.net/problem/12018" target="_blank">Yonsei TOTO</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/15903" target="_blank">15903</a>|<a href="https://www.acmicpc.net/problem/15903" target="_blank">카드 합체 놀이</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/2493" target="_blank">2493</a>|<a href="https://www.acmicpc.net/problem/2493" target="_blank">탑</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2014%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EA%B3%BC%EC%A0%9C/2493.cpp)|스택|
+|<a href="https://www.acmicpc.net/problem/7662" target="_blank">7662</a>|<a href="https://www.acmicpc.net/problem/7662" target="_blank">이중 우선순위 큐</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2014%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EA%B3%BC%EC%A0%9C/7662_1.cpp)</br>[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2014%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EA%B3%BC%EC%A0%9C/7662_2.cpp)|셋, 우선순위 큐|
+|<a href="https://www.acmicpc.net/problem/11000" target="_blank">11000</a>|<a href="https://www.acmicpc.net/problem/11000" target="_blank">강의실 배정</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2014%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EA%B3%BC%EC%A0%9C/11000.cpp)|그리디, 우선순위 큐, 정렬|
+|<a href="https://www.acmicpc.net/problem/11286" target="_blank">11286</a>|<a href="https://www.acmicpc.net/problem/11286" target="_blank">절댓값 힙</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2014%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EA%B3%BC%EC%A0%9C/11286.cpp)|우선순위 큐|
+|<a href="https://www.acmicpc.net/problem/12018" target="_blank">12018</a>|<a href="https://www.acmicpc.net/problem/12018" target="_blank">Yonsei TOTO</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2014%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EA%B3%BC%EC%A0%9C/12018.cpp)|그리디, 우선순위 큐, 정렬|
+|<a href="https://www.acmicpc.net/problem/15903" target="_blank">15903</a>|<a href="https://www.acmicpc.net/problem/15903" target="_blank">카드 합체 놀이</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2014%EC%9D%BC%20-%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90/%EA%B3%BC%EC%A0%9C/15903.cpp)|그리디, 우선순위 큐|
 
 
 ---
@@ -93,3 +93,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;최종 결과가 최솟값이 되려면 어떤 카드를 뽑아야 할까요?
 </div>
 </details>
+
+---
+
+### 코드리뷰 가이드
+
+🔗 [링크](https://educated-treatment-631.notion.site/0914-6ff9d7458eb94ac0a27525e9ca7959f9)
