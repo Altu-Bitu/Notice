@@ -39,44 +39,58 @@
 ### 힌트
 
 <details>
+<summary>컨베이어 벨트 위의 로봇</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;컨테이너 벨트가 회전하는 걸 굳이 직접 구현할 필욘 없을 것 같아요. 벨트를 고정해볼까요? 이 상태에서 회전은 어떻게 표현할 수 있을까요? 그리고 가장 먼저 올라온 로봇은 항상 내리는 위치와 제일 가깝죠.
+</div>
+</details>
+
+<details>
+<summary>통계학</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;최빈값을 구하는 게 제일 까다로워 보여요. 입력되는 정수의 절댓값이 4,000밖에 안되네요. 인덱스로 접근해볼 수 있을 것 같아요.
+</div>
+</details>
+
+<details>
 <summary>기숙사 바닥</summary>
 <div markdown="1">
- 빨간 타일과 갈색 타일의 개수를 합치면 타일의 무엇(수학 관련)과 같죠? 그리고 그 합이 그렇게 크진 않은 것 같아요.
+&nbsp;&nbsp;&nbsp;&nbsp;빨간 타일과 갈색 타일의 개수를 합치면 타일의 무엇(수학 관련)과 같죠? 그리고 그 합이 그렇게 크진 않은 것 같아요.
 </div>
 </details>
 
 <details>
 <summary>퇴사</summary>
 <div markdown="1">
- 우선 n이 작네요. 경우의 수를 탐색할 때, 상담의 시작 일을 잘 설정하는 게 중요할 것 같아요.
+&nbsp;&nbsp;&nbsp;&nbsp;우선 n이 작네요. 경우의 수를 탐색할 때, 상담의 시작 일을 잘 설정하는 게 중요할 것 같아요.
 </div>
 </details>
 
 <details>
 <summary>유레카 이론</summary>
 <div markdown="1">
- 자연수(k)의 최대 범위는 1,000이네요. 대략 최대 몇 n까지의 삼각수가 가능할까요? 그리고 삼각수는 정확히 3개만 사용하네요.
+&nbsp;&nbsp;&nbsp;&nbsp;자연수(k)의 최대 범위는 1,000이네요. 대략 최대 몇 n까지의 삼각수가 가능할까요? 그리고 삼각수는 정확히 3개만 사용하네요.
 </div>
 </details>
 
 <details>
 <summary>숫자 야구</summary>
 <div markdown="1">
- 서로 다른 세 자리 수의 최대 수는 무엇이죠? 0은 사용하지 않는다는 걸 주의해야 해요.
+&nbsp;&nbsp;&nbsp;&nbsp;서로 다른 세 자리 수의 최대 수는 무엇이죠? 0은 사용하지 않는다는 걸 주의해야 해요.
 </div>
 </details>
 
 <details>
 <summary>리모컨</summary>
 <div markdown="1">
- 정말 무식한 방법이 답일 때도 있어요. 모든 채널을 다 눌러본다거나..?
+&nbsp;&nbsp;&nbsp;&nbsp;정말 무식한 방법이 답일 때도 있어요. 모든 채널을 다 눌러본다거나..?
 </div>
 </details>
 
 <details>
 <summary>임진왜란</summary>
 <div markdown="1">
- 입력간의 상대적인 순서, 비슷한 문제를 같이 풀었던 것 같지 않나요?
+&nbsp;&nbsp;&nbsp;&nbsp;입력간의 상대적인 순서, 비슷한 문제를 같이 풀었던 것 같지 않나요?
 </div>
 </details>
 
