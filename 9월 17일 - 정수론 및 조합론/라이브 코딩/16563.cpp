@@ -8,7 +8,7 @@ const int SIZE = 5000000;
 
 //소수 경로 저장해서 리턴하는 함수
 vector<int> isPrime() {
-    vector<int> prime(SIZE, 0);
+    vector<int> prime(SIZE + 1, 0);
 
     //먼저 모든 수를 소수라 가정하고, i번째 인덱스에 i값 저장
     for (int i = 2; i <= SIZE; i++)
