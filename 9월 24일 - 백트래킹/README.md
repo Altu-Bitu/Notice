@@ -6,11 +6,11 @@
 
 ### 라이브 코딩
 
-|문제 번호|문제 이름|난이도|풀이 링크|분류|
-| :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/15649" target="_blank">15649</a>|<a href="https://www.acmicpc.net/problem/15649" target="_blank">N과 M (1)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/15650" target="_blank">15650</a>|<a href="https://www.acmicpc.net/problem/15650" target="_blank">N과 M (2)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/9663" target="_blank">9663</a>|<a href="https://www.acmicpc.net/problem/9663" target="_blank">N-Queen</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
+|문제 번호|문제 이름|난이도|풀이 링크 1|풀이 링크 2|분류|
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+|<a href="https://www.acmicpc.net/problem/15649" target="_blank">15649</a>|<a href="https://www.acmicpc.net/problem/15649" target="_blank">N과 M (1)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2024%EC%9D%BC%20-%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/15649.cpp)||백트래킹|
+|<a href="https://www.acmicpc.net/problem/15650" target="_blank">15650</a>|<a href="https://www.acmicpc.net/problem/15650" target="_blank">N과 M (2)</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2024%EC%9D%BC%20-%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/15650.cpp)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2024%EC%9D%BC%20-%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/15650_2.cpp)|백트래킹, 조합|
+|<a href="https://www.acmicpc.net/problem/9663" target="_blank">9663</a>|<a href="https://www.acmicpc.net/problem/9663" target="_blank">N-Queen</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2024%EC%9D%BC%20-%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/9663.cpp)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2024%EC%9D%BC%20-%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/9663_2.cpp)|백트래킹|
 
 
 ## ✏️ 과제
