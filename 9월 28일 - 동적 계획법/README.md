@@ -8,8 +8,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/12865" target="_blank">12865</a>|<a href="https://www.acmicpc.net/problem/12865" target="_blank">평범한 배낭</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/2579" target="_blank">2579</a>|<a href="https://www.acmicpc.net/problem/2579" target="_blank">계단 오르기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/12865" target="_blank">12865</a>|<a href="https://www.acmicpc.net/problem/12865" target="_blank">평범한 배낭</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
 
 
 ## ✏️ 과제
@@ -18,8 +18,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/20923" target="_blank">20923</a>|<a href="https://www.acmicpc.net/problem/20923" target="_blank">숫자 할리갈리 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()|구현|
-|<a href="https://www.acmicpc.net/problem/3190" target="_blank">3190</a>|<a href="https://www.acmicpc.net/problem/3190" target="_blank">뱀</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()|구현|
+|<a href="https://www.acmicpc.net/problem/3190" target="_blank">3190</a>|<a href="https://www.acmicpc.net/problem/3190" target="_blank">뱀</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/20923" target="_blank">20923</a>|<a href="https://www.acmicpc.net/problem/20923" target="_blank">숫자 할리갈리 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
 
 
 ---
@@ -39,6 +39,20 @@
 ---
 
 ### 힌트
+
+<details>
+<summary>뱀</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;보드에 뱀이 어떻게 위치하고 있는지 알면 좋겠어요. 근데 머리와 꼬리의 위치도 알아야겠네요? 뱀의 상태를 어떻게 저장할까요?
+</div>
+</details>
+
+<details>
+<summary>숫자 할리갈리 게임</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;덱, 그라운드에 있는 카드를 어떻게 저장하면 좋을까요?
+</div>
+</details>
 
 <details>
 <summary>쉬운 계단 수</summary>
@@ -81,10 +95,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;전깃줄이 교차하는 경우와 교차하지 않는 경우는 어떨 때인가요? 그림에 답이 있어요.
 </div>
 </details>
-
----
-
-### 코드리뷰 가이드
-
-🔗 [링크](https://educated-treatment-631.notion.site/0907-07c0b79eebd54e98a87e46c67d7031a8)
 
