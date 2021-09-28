@@ -8,8 +8,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2579" target="_blank">2579</a>|<a href="https://www.acmicpc.net/problem/2579" target="_blank">계단 오르기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/12865" target="_blank">12865</a>|<a href="https://www.acmicpc.net/problem/12865" target="_blank">평범한 배낭</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/2579" target="_blank">2579</a>|<a href="https://www.acmicpc.net/problem/2579" target="_blank">계단 오르기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2028%EC%9D%BC%20-%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/2579.cpp)||
+|<a href="https://www.acmicpc.net/problem/12865" target="_blank">12865</a>|<a href="https://www.acmicpc.net/problem/12865" target="_blank">평범한 배낭</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/9%EC%9B%94%2028%EC%9D%BC%20-%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/12865.cpp)||
 
 
 ## ✏️ 과제
