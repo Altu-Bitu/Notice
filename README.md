@@ -24,7 +24,7 @@
 | 2021.09.17 |정수론 및 조합론|[@Sua Bae](https://github.com/bsa0322)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/5.%20%EC%A0%95%EC%88%98%EB%A1%A0.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/9%EC%9B%94%2017%EC%9D%BC%20-%20%EC%A0%95%EC%88%98%EB%A1%A0%20%EB%B0%8F%20%EC%A1%B0%ED%95%A9%EB%A1%A0)|
 | 2021.09.21 |브루트 포스|[@Sua Bae](https://github.com/bsa0322)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/6.%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/9%EC%9B%94%2021%EC%9D%BC%20-%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4)|
 | 2021.09.24 |백트래킹|[@Sua Bae](https://github.com/bsa0322)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/7.%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/9%EC%9B%94%2024%EC%9D%BC%20-%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)|
-| 2021.09.28 |동적 계획법|[@Sua Bae](https://github.com/bsa0322)|           |       |
+| 2021.09.28 |동적 계획법|[@Sua Bae](https://github.com/bsa0322)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/8.%20%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/9%EC%9B%94%2028%EC%9D%BC%20-%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95)|
 | 2021.10.01 |그리디 알고리즘|[@Sua Bae](https://github.com/bsa0322)|           |       |
 | 2021.10.05 |분할 정복|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
 | 2021.10.08 |이분 탐색|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
