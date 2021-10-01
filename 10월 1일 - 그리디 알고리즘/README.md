@@ -8,9 +8,9 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/11047" target="_blank">11047</a>|<a href="https://www.acmicpc.net/problem/11047" target="_blank">동전 0</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기]()|||
-|<a href="https://www.acmicpc.net/problem/1931" target="_blank">1931</a>|<a href="https://www.acmicpc.net/problem/1931" target="_blank">회의실 배정</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기]()|||
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/42862" target="_blank">체육복</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/42862" target="_blank">체육복</a>|Level1|[바로가기]()|||
+|<a href="https://www.acmicpc.net/problem/11047" target="_blank">11047</a>|<a href="https://www.acmicpc.net/problem/11047" target="_blank">동전 0</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%201%EC%9D%BC%20-%20%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/11047.cpp)|그리디 알고리즘|
+|<a href="https://www.acmicpc.net/problem/1931" target="_blank">1931</a>|<a href="https://www.acmicpc.net/problem/1931" target="_blank">회의실 배정</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%201%EC%9D%BC%20-%20%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/1931.cpp)|그리디 알고리즘, 정렬|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/42862" target="_blank">체육복</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/42862" target="_blank">체육복</a>|Level1|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%201%EC%9D%BC%20-%20%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/gymsuit.cpp)|그리디 알고리즘|
 
 
 ## ✏️ 과제
