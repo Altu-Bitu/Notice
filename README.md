@@ -26,7 +26,7 @@
 | 2021.09.24 |백트래킹|[@Sua Bae](https://github.com/bsa0322)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/7.%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/9%EC%9B%94%2024%EC%9D%BC%20-%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9)|
 | 2021.09.28 |동적 계획법|[@Sua Bae](https://github.com/bsa0322)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/8.%20%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/9%EC%9B%94%2028%EC%9D%BC%20-%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95)|
 | 2021.10.01 |그리디 알고리즘|[@Sua Bae](https://github.com/bsa0322)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/9.%20%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/10%EC%9B%94%201%EC%9D%BC%20-%20%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|
-| 2021.10.05 |분할 정복|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
+| 2021.10.05 |분할 정복|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/10.%20%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/10%EC%9B%94%205%EC%9D%BC%20-%20%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5)|
 | 2021.10.08 |이분 탐색|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
 | 2021.10.12 |투 포인터|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
 | 2021.10.15 |DFS & BFS|[@Sua Bae](https://github.com/bsa0322)|           |       |
