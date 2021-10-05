@@ -8,10 +8,10 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1629" target="_blank">1629</a>|<a href="https://www.acmicpc.net/problem/1629" target="_blank">곱셈</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/2630" target="_blank">2630</a>|<a href="https://www.acmicpc.net/problem/2630" target="_blank">색종이 만들기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/10830" target="_blank">10830</a>|<a href="https://www.acmicpc.net/problem/10830" target="_blank">행렬 제곱</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/4256" target="_blank">4256</a>|<a href="https://www.acmicpc.net/problem/4256" target="_blank">트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1629" target="_blank">1629</a>|<a href="https://www.acmicpc.net/problem/1629" target="_blank">곱셈</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%205%EC%9D%BC%20-%20%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/1629.cpp)|분할 정복|
+|<a href="https://www.acmicpc.net/problem/2630" target="_blank">2630</a>|<a href="https://www.acmicpc.net/problem/2630" target="_blank">색종이 만들기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%205%EC%9D%BC%20-%20%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/2630.cpp)|분할 정복|
+|<a href="https://www.acmicpc.net/problem/10830" target="_blank">10830</a>|<a href="https://www.acmicpc.net/problem/10830" target="_blank">행렬 제곱</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%205%EC%9D%BC%20-%20%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/10830.cpp)|분할 정복|
+|<a href="https://www.acmicpc.net/problem/4256" target="_blank">4256</a>|<a href="https://www.acmicpc.net/problem/4256" target="_blank">트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%205%EC%9D%BC%20-%20%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/4256.cpp)|분할 정복, 트리|
 
 
 ## ✏️ 과제
