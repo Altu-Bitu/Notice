@@ -76,3 +76,8 @@
 
 
 ---
+
+### 코드리뷰 가이드
+
+🔗 [링크](https://educated-treatment-631.notion.site/1001-20efb32dd0944f1baac0d0cddc0df304)
+
