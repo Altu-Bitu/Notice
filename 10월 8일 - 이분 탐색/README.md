@@ -21,7 +21,7 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/64062" target="_blank">징검다리 건너기</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/64062" target="_blank">징검다리 건너기</a>|Level 3|[바로가기]()||
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/64062" target="_blank">2019 카카오 개발자 겨울 인턴십</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/64062" target="_blank">징검다리 건너기</a>|Level 3|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/2343" target="_blank">2343</a>|<a href="https://www.acmicpc.net/problem/2343" target="_blank">기타 레슨</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/3079" target="_blank">3079</a>|<a href="https://www.acmicpc.net/problem/3079" target="_blank">입국심사</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/13397" target="_blank">13397</a>|<a href="https://www.acmicpc.net/problem/13397" target="_blank">구간 나누기 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
