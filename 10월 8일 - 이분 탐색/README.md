@@ -8,9 +8,9 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1920" target="_blank">1920</a>|<a href="https://www.acmicpc.net/problem/1920" target="_blank">수 찾기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/10816" target="_blank">10816</a>|<a href="https://www.acmicpc.net/problem/10816" target="_blank">숫자 카드 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/2110" target="_blank">2110</a>|<a href="https://www.acmicpc.net/problem/2110" target="_blank">공유기 설치</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1920" target="_blank">1920</a>|<a href="https://www.acmicpc.net/problem/1920" target="_blank">수 찾기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%208%EC%9D%BC%20-%20%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/1920.cpp)|이분 탐색|
+|<a href="https://www.acmicpc.net/problem/10816" target="_blank">10816</a>|<a href="https://www.acmicpc.net/problem/10816" target="_blank">숫자 카드 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%208%EC%9D%BC%20-%20%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/10816.cpp)|이분 탐색|
+|<a href="https://www.acmicpc.net/problem/2110" target="_blank">2110</a>|<a href="https://www.acmicpc.net/problem/2110" target="_blank">공유기 설치</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%208%EC%9D%BC%20-%20%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/2110.cpp)|이분 탐색|
 
 
 
