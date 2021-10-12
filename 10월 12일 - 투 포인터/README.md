@@ -8,11 +8,11 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/11659" target="_blank">11659</a>|<a href="https://www.acmicpc.net/problem/11659" target="_blank">구간 합 구하기 4</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/21921" target="_blank">21921</a>|<a href="https://www.acmicpc.net/problem/21921" target="_blank">블로그</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/2470" target="_blank">2470</a>|<a href="https://www.acmicpc.net/problem/2470" target="_blank">두 용액</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1644" target="_blank">1644</a>|<a href="https://www.acmicpc.net/problem/1644" target="_blank">소수의 연속합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/67258">2020 카카오 인턴십</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/67258" target="_blank">보석쇼핑</a>|Level 3|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/11659" target="_blank">11659</a>|<a href="https://www.acmicpc.net/problem/11659" target="_blank">구간 합 구하기 4</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2012%EC%9D%BC%20-%20%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/11659.cpp)|누적 합|
+|<a href="https://www.acmicpc.net/problem/21921" target="_blank">21921</a>|<a href="https://www.acmicpc.net/problem/21921" target="_blank">블로그</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2012%EC%9D%BC%20-%20%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/21921.cpp)|슬라이딩 윈도우|
+|<a href="https://www.acmicpc.net/problem/2470" target="_blank">2470</a>|<a href="https://www.acmicpc.net/problem/2470" target="_blank">두 용액</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2012%EC%9D%BC%20-%20%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/2470.cpp)|투 포인터|
+|<a href="https://www.acmicpc.net/problem/1644" target="_blank">1644</a>|<a href="https://www.acmicpc.net/problem/1644" target="_blank">소수의 연속합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2012%EC%9D%BC%20-%20%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/1644.cpp)|투 포인터, 정수론|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/67258">2020 카카오 인턴십</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/67258" target="_blank">보석쇼핑</a>|Level 3|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2012%EC%9D%BC%20-%20%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/gem.cpp)|투 포인터|
 
 ## ✏️ 과제
 
