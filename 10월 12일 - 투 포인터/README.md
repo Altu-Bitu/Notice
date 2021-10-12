@@ -12,7 +12,7 @@
 |<a href="https://www.acmicpc.net/problem/21921" target="_blank">21921</a>|<a href="https://www.acmicpc.net/problem/21921" target="_blank">블로그</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/2470" target="_blank">2470</a>|<a href="https://www.acmicpc.net/problem/2470" target="_blank">두 용액</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/1644" target="_blank">1644</a>|<a href="https://www.acmicpc.net/problem/1644" target="_blank">소수의 연속합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/67258">보석쇼핑</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/67258" target="_blank">보석쇼핑</a>|Level 3|[바로가기]()||
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/67258">2020 카카오 인턴십</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/67258" target="_blank">보석쇼핑</a>|Level 3|[바로가기]()||
 
 ## ✏️ 과제
 
