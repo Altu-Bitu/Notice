@@ -28,7 +28,7 @@
 | 2021.10.01 |그리디 알고리즘|[@Sua Bae](https://github.com/bsa0322)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/9.%20%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/10%EC%9B%94%201%EC%9D%BC%20-%20%EA%B7%B8%EB%A6%AC%EB%94%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|
 | 2021.10.05 |분할 정복|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/10.%20%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/10%EC%9B%94%205%EC%9D%BC%20-%20%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5)|
 | 2021.10.08 |이분 탐색|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/11.%20%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/10%EC%9B%94%208%EC%9D%BC%20-%20%EC%9D%B4%EB%B6%84%20%ED%83%90%EC%83%89)|
-| 2021.10.12 |투 포인터|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
+| 2021.10.12 |투 포인터|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/12.%20%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/10%EC%9B%94%2012%EC%9D%BC%20-%20%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0)|
 | 2021.10.15 |DFS & BFS|[@Sua Bae](https://github.com/bsa0322)|           |       |
 | 2021.11.02 |최단 경로|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|           |       |
 | 2021.11.09 |동적 계획법과 최단 거리 역추적|[@Sua Bae](https://github.com/bsa0322)|           |       |
