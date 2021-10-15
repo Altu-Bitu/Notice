@@ -23,7 +23,7 @@
 |<a href="https://www.acmicpc.net/problem/4963" target="_blank">4963</a>|<a href="https://www.acmicpc.net/problem/4963" target="_blank">섬의 개수</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|||
 |<a href="https://www.acmicpc.net/problem/19538" target="_blank">19538</a>|<a href="https://www.acmicpc.net/problem/19538" target="_blank">루머</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|||
 |<a href="https://www.acmicpc.net/problem/1520" target="_blank">1520</a>|<a href="https://www.acmicpc.net/problem/1520" target="_blank">내리막 길</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|||
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/81302" target="_blank">2021 카카오 채용연계형 인턴십</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/81302" target="_blank">거리두기 확인하기</a>|Level 3|||
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/81302" target="_blank">2021 카카오 채용연계형 인턴십</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/81302" target="_blank">거리두기 확인하기</a>|Level 2|||
 |<a href="https://programmers.co.kr/learn/courses/30/lessons/43163" target="_blank">단어 변환</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/43163" target="_blank">단어 변환</a>|Level 3|||
 
 
