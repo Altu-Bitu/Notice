@@ -63,7 +63,7 @@
 <details>
 <summary>거리두기 확인하기</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;입력이 크지 않아요! 맨허튼 거리가 2이하라는건 어떤걸 의미할까요?
+&nbsp;&nbsp;&nbsp;&nbsp;입력이 크지 않아요! 모든 응시자에 대해 거리두기를 확인해도 괜찮아요. 맨허튼 거리가 2이하라는건 어떤걸 의미할까요?
 </div>
 </details>
 
