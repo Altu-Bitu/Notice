@@ -8,8 +8,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1260" target="_blank">1260</a>|<a href="https://www.acmicpc.net/problem/1260" target="_blank">DFS와 BFS</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2015%EC%9D%BC%20-%20DFS%EC%99%80%20BFS/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/1260.cpp)|깊이 우선 탐색, 너비 우선 탐색|
-|<a href="https://www.acmicpc.net/problem/7576" target="_blank">7576</a>|<a href="https://www.acmicpc.net/problem/7576" target="_blank">토마토</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2015%EC%9D%BC%20-%20DFS%EC%99%80%20BFS/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/7576.cpp)|너비 우선 탐색|
+|<a href="https://www.acmicpc.net/problem/1260" target="_blank">1260</a>|<a href="https://www.acmicpc.net/problem/1260" target="_blank">DFS와 BFS</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2015%EC%9D%BC%20-%20DFS%EC%99%80%20BFS/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/1260.cpp)|DFS, BFS|
+|<a href="https://www.acmicpc.net/problem/7576" target="_blank">7576</a>|<a href="https://www.acmicpc.net/problem/7576" target="_blank">토마토</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2015%EC%9D%BC%20-%20DFS%EC%99%80%20BFS/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/7576.cpp)|BFS|
 
 ## ✏️ 과제
 
@@ -19,12 +19,12 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1697" target="_blank">1697</a>|<a href="https://www.acmicpc.net/problem/1697" target="_blank">숨바꼭질</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|||
-|<a href="https://www.acmicpc.net/problem/4963" target="_blank">4963</a>|<a href="https://www.acmicpc.net/problem/4963" target="_blank">섬의 개수</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|||
-|<a href="https://www.acmicpc.net/problem/19538" target="_blank">19538</a>|<a href="https://www.acmicpc.net/problem/19538" target="_blank">루머</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|||
-|<a href="https://www.acmicpc.net/problem/1520" target="_blank">1520</a>|<a href="https://www.acmicpc.net/problem/1520" target="_blank">내리막 길</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|||
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/81302" target="_blank">2021 카카오 채용연계형 인턴십</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/81302" target="_blank">거리두기 확인하기</a>|Level 2|||
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/43163" target="_blank">단어 변환</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/43163" target="_blank">단어 변환</a>|Level 3|||
+|<a href="https://www.acmicpc.net/problem/1697" target="_blank">1697</a>|<a href="https://www.acmicpc.net/problem/1697" target="_blank">숨바꼭질</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2015%EC%9D%BC%20-%20DFS%20%26%20BFS/%EA%B3%BC%EC%A0%9C/1697.cpp)|BFS|
+|<a href="https://www.acmicpc.net/problem/4963" target="_blank">4963</a>|<a href="https://www.acmicpc.net/problem/4963" target="_blank">섬의 개수</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2015%EC%9D%BC%20-%20DFS%20%26%20BFS/%EA%B3%BC%EC%A0%9C/4963.cpp)|DFS, BFS|
+|<a href="https://www.acmicpc.net/problem/19538" target="_blank">19538</a>|<a href="https://www.acmicpc.net/problem/19538" target="_blank">루머</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2015%EC%9D%BC%20-%20DFS%20%26%20BFS/%EA%B3%BC%EC%A0%9C/19538.cpp)|BFS|
+|<a href="https://www.acmicpc.net/problem/1520" target="_blank">1520</a>|<a href="https://www.acmicpc.net/problem/1520" target="_blank">내리막 길</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2015%EC%9D%BC%20-%20DFS%20%26%20BFS/%EA%B3%BC%EC%A0%9C/1520.cpp)|DFS, DP|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/81302" target="_blank">2021 카카오 채용연계형 인턴십</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/81302" target="_blank">거리두기 확인하기</a>|Level 2|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2015%EC%9D%BC%20-%20DFS%20%26%20BFS/%EA%B3%BC%EC%A0%9C/socialDistance.cpp)|DFS, BFS|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/43163" target="_blank">단어 변환</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/43163" target="_blank">단어 변환</a>|Level 3|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2015%EC%9D%BC%20-%20DFS%20%26%20BFS/%EA%B3%BC%EC%A0%9C/wordConverting.cpp)|BFS|
 
 
 
