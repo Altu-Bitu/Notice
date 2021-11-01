@@ -73,3 +73,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;가장 '짧은' 변환 과정을 찾고 있네요! 각 단어들 사이의 변환 가능 여부를 연결관계로도 표현할 수 있지 않을까요?
 </div>
 </details>
+
+---
+
+### 코드리뷰 가이드
+
+🔗 [링크](https://educated-treatment-631.notion.site/1015-0468c78e1d2c4bc0869a22b7444674cc)
+
