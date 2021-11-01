@@ -19,8 +19,8 @@
 ### 필수
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/14500" target="_blank">14500</a>|<a href="https://www.acmicpc.net/problem/14500" target="_blank">테트로미노</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/2607" target="_blank">2607</a>|<a href="https://www.acmicpc.net/problem/2607" target="_blank">비슷한 단어</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/14500" target="_blank">14500</a>|<a href="https://www.acmicpc.net/problem/14500" target="_blank">테트로미노</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2012%EC%9D%BC%20-%20%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/%EA%B3%BC%EC%A0%9C/14500.cpp)|구현, 브루트포스, 백트래킹|
+|<a href="https://www.acmicpc.net/problem/2607" target="_blank">2607</a>|<a href="https://www.acmicpc.net/problem/2607" target="_blank">비슷한 단어</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2012%EC%9D%BC%20-%20%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/%EA%B3%BC%EC%A0%9C/2607.cpp)|구현, 문자열|
 
 ---
 
@@ -28,12 +28,12 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1253" target="_blank">1253</a>|<a href="https://www.acmicpc.net/problem/1253" target="_blank">좋다</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/2143" target="_blank">2143</a>|<a href="https://www.acmicpc.net/problem/2143" target="_blank">두 배열의 합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/2473" target="_blank">2473</a>|<a href="https://www.acmicpc.net/problem/2473" target="_blank">세 용액 </a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/2531" target="_blank">2531</a>|<a href="https://www.acmicpc.net/problem/2531" target="_blank">회전 초밥</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/13422" target="_blank">13422</a>|<a href="https://www.acmicpc.net/problem/13422" target="_blank">도둑</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/20922" target="_blank">20922</a>|<a href="https://www.acmicpc.net/problem/20922" target="_blank">겹치는 건 싫어</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1253" target="_blank">1253</a>|<a href="https://www.acmicpc.net/problem/1253" target="_blank">좋다</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2012%EC%9D%BC%20-%20%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/%EA%B3%BC%EC%A0%9C/1253.cpp)|투 포인터|
+|<a href="https://www.acmicpc.net/problem/2143" target="_blank">2143</a>|<a href="https://www.acmicpc.net/problem/2143" target="_blank">두 배열의 합</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2012%EC%9D%BC%20-%20%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/%EA%B3%BC%EC%A0%9C/2143.cpp)|누적 합, 투 포인터|
+|<a href="https://www.acmicpc.net/problem/2473" target="_blank">2473</a>|<a href="https://www.acmicpc.net/problem/2473" target="_blank">세 용액 </a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2012%EC%9D%BC%20-%20%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/%EA%B3%BC%EC%A0%9C/2473.cpp)|투 포인터|
+|<a href="https://www.acmicpc.net/problem/2531" target="_blank">2531</a>|<a href="https://www.acmicpc.net/problem/2531" target="_blank">회전 초밥</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2012%EC%9D%BC%20-%20%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/%EA%B3%BC%EC%A0%9C/2531.cpp)|슬라이딩 윈도우|
+|<a href="https://www.acmicpc.net/problem/13422" target="_blank">13422</a>|<a href="https://www.acmicpc.net/problem/13422" target="_blank">도둑</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2012%EC%9D%BC%20-%20%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/%EA%B3%BC%EC%A0%9C/13422.cpp)|슬라이딩 윈도우|
+|<a href="https://www.acmicpc.net/problem/20922" target="_blank">20922</a>|<a href="https://www.acmicpc.net/problem/20922" target="_blank">겹치는 건 싫어</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/10%EC%9B%94%2012%EC%9D%BC%20-%20%ED%88%AC%20%ED%8F%AC%EC%9D%B8%ED%84%B0/%EA%B3%BC%EC%A0%9C/20922.cpp)|투 포인터|
 
 
 ---
@@ -99,4 +99,7 @@
 
 ---
 
+### 코드리뷰 가이드
+
+🔗 [링크](https://educated-treatment-631.notion.site/1012-00abffc4510e493da88289178b5ae621)
 
