@@ -1,4 +1,4 @@
-# 최단 경로
+# 최단 경로 (Shortest Path)
 
 [메인으로 돌아가기](https://github.com/Altu-Bitu/Notice)
 
@@ -8,17 +8,17 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
+|<a href="https://www.acmicpc.net/problem/1753" target="_blank">1753</a>|<a href="https://www.acmicpc.net/problem/1753" target="_blank">최단경로</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/11404" target="_blank">11404</a>|<a href="https://www.acmicpc.net/problem/11404" target="_blank">플로이드</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/11657" target="_blank">11657</a>|<a href="https://www.acmicpc.net/problem/11657" target="_blank">타임머신</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1753" target="_blank">1753</a>|<a href="https://www.acmicpc.net/problem/1753" target="_blank">최단경로</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
 
 ## ✏️ 과제
 
 ### 필수
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1238" target="_blank">1238</a>|<a href="https://www.acmicpc.net/problem/1238" target="_blank">파티</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1613" target="_blank">1613</a>|<a href="https://www.acmicpc.net/problem/1613" target="_blank">역사</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/15685" target="_blank">15685</a>|<a href="https://www.acmicpc.net/problem/15685" target="_blank">드래곤 커브</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1063" target="_blank">1063</a>|<a href="https://www.acmicpc.net/problem/1063" target="_blank">킹</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
 
 ---
 
@@ -26,7 +26,9 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
+|<a href="https://www.acmicpc.net/problem/1238" target="_blank">1238</a>|<a href="https://www.acmicpc.net/problem/1238" target="_blank">파티</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/1504" target="_blank">1504</a>|<a href="https://www.acmicpc.net/problem/1504" target="_blank">특정한 최단 경로</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1613" target="_blank">1613</a>|<a href="https://www.acmicpc.net/problem/1613" target="_blank">역사</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/4485" target="_blank">4485</a>|<a href="https://www.acmicpc.net/problem/4485" target="_blank">녹색 옷 입은 애가 젤다지?</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/13549" target="_blank">13549</a>|<a href="https://www.acmicpc.net/problem/13549" target="_blank">숨바꼭질 3</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
 |<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">2021 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">합승 택시 요금</a>|Level 3|[바로가기]()||
@@ -34,6 +36,20 @@
 ---
 
 ### 힌트
+
+<details>
+<summary>드래곤 커브</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+</details>
+
+<details>
+<summary킹</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+</details>
 
 <details>
 <summary>파티</summary>
