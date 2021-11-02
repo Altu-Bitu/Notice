@@ -45,7 +45,7 @@
 </details>
 
 <details>
-<summary킹</summary>
+<summary>킹</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
