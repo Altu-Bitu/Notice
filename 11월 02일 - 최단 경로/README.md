@@ -40,14 +40,14 @@
 <details>
 <summary>드래곤 커브</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;드래곤 커브의 각 세대마다 방향에 집중해보아요. 세대가 지남에 따라 방향이 어떻게 바뀌는지 찾아보아요.
 </div>
 </details>
 
 <details>
 <summary>킹</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;그대로 구현하기 어렵다면 체스판을 회전해보면 어떨까요? 돌의 움직임도 고려해야 하는 걸 잊으면 안돼요.
 </div>
 </details>
 
