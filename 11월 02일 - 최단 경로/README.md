@@ -17,8 +17,8 @@
 ### 필수
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/15685" target="_blank">15685</a>|<a href="https://www.acmicpc.net/problem/15685" target="_blank">드래곤 커브</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1063" target="_blank">1063</a>|<a href="https://www.acmicpc.net/problem/1063" target="_blank">킹</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/15685" target="_blank">15685</a>|<a href="https://www.acmicpc.net/problem/15685" target="_blank">드래곤 커브</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2002%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/15685.cpp)|구현, 시뮬레이션|
+|<a href="https://www.acmicpc.net/problem/1063" target="_blank">1063</a>|<a href="https://www.acmicpc.net/problem/1063" target="_blank">킹</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2002%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/1063.cpp)|구현, 시뮬레이션|
 
 ---
 
@@ -26,12 +26,12 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1238" target="_blank">1238</a>|<a href="https://www.acmicpc.net/problem/1238" target="_blank">파티</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1504" target="_blank">1504</a>|<a href="https://www.acmicpc.net/problem/1504" target="_blank">특정한 최단 경로</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1613" target="_blank">1613</a>|<a href="https://www.acmicpc.net/problem/1613" target="_blank">역사</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/4485" target="_blank">4485</a>|<a href="https://www.acmicpc.net/problem/4485" target="_blank">녹색 옷 입은 애가 젤다지?</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/13549" target="_blank">13549</a>|<a href="https://www.acmicpc.net/problem/13549" target="_blank">숨바꼭질 3</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">2021 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">합승 택시 요금</a>|Level 3|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1238" target="_blank">1238</a>|<a href="https://www.acmicpc.net/problem/1238" target="_blank">파티</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2002%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/1238.cpp)|다익스트라|
+|<a href="https://www.acmicpc.net/problem/1504" target="_blank">1504</a>|<a href="https://www.acmicpc.net/problem/1504" target="_blank">특정한 최단 경로</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2002%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/1504.cpp)|다익스트라|
+|<a href="https://www.acmicpc.net/problem/1613" target="_blank">1613</a>|<a href="https://www.acmicpc.net/problem/1613" target="_blank">역사</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2002%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/1613.cpp)|플로이드-워셜|
+|<a href="https://www.acmicpc.net/problem/4485" target="_blank">4485</a>|<a href="https://www.acmicpc.net/problem/4485" target="_blank">녹색 옷 입은 애가 젤다지?</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2002%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/4485.cpp)|다익스트라|
+|<a href="https://www.acmicpc.net/problem/13549" target="_blank">13549</a>|<a href="https://www.acmicpc.net/problem/13549" target="_blank">숨바꼭질 3</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2002%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/13549.cpp)|0-1 BFS|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">2021 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/72413" target="_blank">합승 택시 요금</a>|Level 3|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2002%EC%9D%BC%20-%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EA%B3%BC%EC%A0%9C/taxi.cpp)|플로이드-워셜|
 
 ---
 
@@ -93,4 +93,8 @@
 </div>
 </details>
 
+---
 
+### 코드리뷰 가이드
+
+🔗 [링크](https://educated-treatment-631.notion.site/1102-60cf8dd964ed486f9049948210416650)
