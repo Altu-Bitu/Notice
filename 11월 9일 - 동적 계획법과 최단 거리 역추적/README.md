@@ -8,8 +8,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/13913" target="_blank">13913</a>|<a href="https://www.acmicpc.net/problem/13913" target="_blank">숨바꼭질 4</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/14002" target="_blank">14002</a>|<a href="https://www.acmicpc.net/problem/14002" target="_blank">가장 긴 증가하는 부분 수열 4</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/13913" target="_blank">13913</a>|<a href="https://www.acmicpc.net/problem/13913" target="_blank">숨바꼭질 4</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/11779" target="_blank">11779</a>|<a href="https://www.acmicpc.net/problem/11779" target="_blank">최소비용 구하기2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
 
 ## ✏️ 과제
