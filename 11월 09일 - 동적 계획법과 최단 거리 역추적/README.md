@@ -17,8 +17,8 @@
 ### 필수
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/16964" target="_blank">15683</a>|<a href="https://www.acmicpc.net/problem/15683" target="_blank">감시</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/16964" target="_blank">2615</a>|<a href="https://www.acmicpc.net/problem/2615" target="_blank">오목</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/15683" target="_blank">15683</a>|<a href="https://www.acmicpc.net/problem/15683" target="_blank">감시</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/2615" target="_blank">2615</a>|<a href="https://www.acmicpc.net/problem/2615" target="_blank">오목</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
 
 ---
 
