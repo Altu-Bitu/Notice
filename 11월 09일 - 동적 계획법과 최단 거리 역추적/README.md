@@ -17,8 +17,8 @@
 ### 필수
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/15683" target="_blank">15683</a>|<a href="https://www.acmicpc.net/problem/15683" target="_blank">감시</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/2615" target="_blank">2615</a>|<a href="https://www.acmicpc.net/problem/2615" target="_blank">오목</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/15683" target="_blank">15683</a>|<a href="https://www.acmicpc.net/problem/15683" target="_blank">감시</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2009%EC%9D%BC%20-%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%EA%B3%BC%20%EC%B5%9C%EB%8B%A8%20%EA%B1%B0%EB%A6%AC%20%EC%97%AD%EC%B6%94%EC%A0%81/%EA%B3%BC%EC%A0%9C/15683.cpp)|구현, 시뮬레이션, 브루트 포스|
+|<a href="https://www.acmicpc.net/problem/2615" target="_blank">2615</a>|<a href="https://www.acmicpc.net/problem/2615" target="_blank">오목</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2009%EC%9D%BC%20-%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%EA%B3%BC%20%EC%B5%9C%EB%8B%A8%20%EA%B1%B0%EB%A6%AC%20%EC%97%AD%EC%B6%94%EC%A0%81/%EA%B3%BC%EC%A0%9C/2615.cpp)|구현, 브루트 포스|
 
 ---
 
@@ -26,12 +26,12 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/9252" target="_blank">9252</a>|<a href="https://www.acmicpc.net/problem/9252" target="_blank">LCS 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1719" target="_blank">1719</a>|<a href="https://www.acmicpc.net/problem/1719" target="_blank">택배</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/11780" target="_blank">11780</a>|<a href="https://www.acmicpc.net/problem/11780" target="_blank">플로이드 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/9019" target="_blank">9019</a>|<a href="https://www.acmicpc.net/problem/9019" target="_blank">DSLR</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/12852" target="_blank">12852</a>|<a href="https://www.acmicpc.net/problem/12852" target="_blank">1로 만들기 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/16964" target="_blank">16964</a>|<a href="https://www.acmicpc.net/problem/16964" target="_blank">DFS 스페셜 저지</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/9252" target="_blank">9252</a>|<a href="https://www.acmicpc.net/problem/9252" target="_blank">LCS 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2009%EC%9D%BC%20-%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%EA%B3%BC%20%EC%B5%9C%EB%8B%A8%20%EA%B1%B0%EB%A6%AC%20%EC%97%AD%EC%B6%94%EC%A0%81/%EA%B3%BC%EC%A0%9C/9252.cpp)|동적 계획법 역추적|
+|<a href="https://www.acmicpc.net/problem/1719" target="_blank">1719</a>|<a href="https://www.acmicpc.net/problem/1719" target="_blank">택배</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2009%EC%9D%BC%20-%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%EA%B3%BC%20%EC%B5%9C%EB%8B%A8%20%EA%B1%B0%EB%A6%AC%20%EC%97%AD%EC%B6%94%EC%A0%81/%EA%B3%BC%EC%A0%9C/1719.cpp)|플로이드-워셜|
+|<a href="https://www.acmicpc.net/problem/11780" target="_blank">11780</a>|<a href="https://www.acmicpc.net/problem/11780" target="_blank">플로이드 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2009%EC%9D%BC%20-%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%EA%B3%BC%20%EC%B5%9C%EB%8B%A8%20%EA%B1%B0%EB%A6%AC%20%EC%97%AD%EC%B6%94%EC%A0%81/%EA%B3%BC%EC%A0%9C/11780.cpp)|플로이드-워셜, 역추적|
+|<a href="https://www.acmicpc.net/problem/9019" target="_blank">9019</a>|<a href="https://www.acmicpc.net/problem/9019" target="_blank">DSLR</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2009%EC%9D%BC%20-%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%EA%B3%BC%20%EC%B5%9C%EB%8B%A8%20%EA%B1%B0%EB%A6%AC%20%EC%97%AD%EC%B6%94%EC%A0%81/%EA%B3%BC%EC%A0%9C/9019.cpp)</br>[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2009%EC%9D%BC%20-%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%EA%B3%BC%20%EC%B5%9C%EB%8B%A8%20%EA%B1%B0%EB%A6%AC%20%EC%97%AD%EC%B6%94%EC%A0%81/%EA%B3%BC%EC%A0%9C/9019_2.cpp)|최단 거리 역추적|
+|<a href="https://www.acmicpc.net/problem/12852" target="_blank">12852</a>|<a href="https://www.acmicpc.net/problem/12852" target="_blank">1로 만들기 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2009%EC%9D%BC%20-%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%EA%B3%BC%20%EC%B5%9C%EB%8B%A8%20%EA%B1%B0%EB%A6%AC%20%EC%97%AD%EC%B6%94%EC%A0%81/%EA%B3%BC%EC%A0%9C/12852.cpp)|동적 계획법, 최단 거리, 역추적|
+|<a href="https://www.acmicpc.net/problem/16964" target="_blank">16964</a>|<a href="https://www.acmicpc.net/problem/16964" target="_blank">DFS 스페셜 저지</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2009%EC%9D%BC%20-%20%EB%8F%99%EC%A0%81%20%EA%B3%84%ED%9A%8D%EB%B2%95%EA%B3%BC%20%EC%B5%9C%EB%8B%A8%20%EA%B1%B0%EB%A6%AC%20%EC%97%AD%EC%B6%94%EC%A0%81/%EA%B3%BC%EC%A0%9C/16964.cpp)|그래프 이론, 깊이 우선 탐색|
 
 ---
 
@@ -94,3 +94,7 @@
 </details>
 
 ---
+
+### 코드리뷰 가이드
+
+🔗 [링크](https://educated-treatment-631.notion.site/1109-bba8948358b04e75bb8f1b2f362a69dd)
