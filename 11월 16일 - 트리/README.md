@@ -17,8 +17,8 @@
 ### 필수
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2250" target="_blank">2250</a>|<a href="https://www.acmicpc.net/problem/2250" target="_blank">트리의 높이와 너비</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/14675" target="_blank">14675</a>|<a href="https://www.acmicpc.net/problem/14675" target="_blank">단절점과 단절선</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/14503" target="_blank">14503</a>|<a href="https://www.acmicpc.net/problem/14503" target="_blank">로봇 청소기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/2011" target="_blank">2011</a>|<a href="https://www.acmicpc.net/problem/2011" target="_blank">암호코드</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
 
 ---
 
@@ -26,6 +26,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
+|<a href="https://www.acmicpc.net/problem/2250" target="_blank">2250</a>|<a href="https://www.acmicpc.net/problem/2250" target="_blank">트리의 높이와 너비</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/14675" target="_blank">14675</a>|<a href="https://www.acmicpc.net/problem/14675" target="_blank">단절점과 단절선</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/20924" target="_blank">20924</a>|<a href="https://www.acmicpc.net/problem/20924" target="_blank">트리의 기둥과 가지</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/1967" target="_blank">1967</a>|<a href="https://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
 |<a href="https://www.acmicpc.net/problem/5639" target="_blank">5639</a>|<a href="https://www.acmicpc.net/problem/5639" target="_blank">이진 검색 트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
@@ -34,6 +36,20 @@
 ---
 
 ### 힌트
+
+<details>
+<summary>로봇 청소기</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;방향을 다루는 문제는 많이 풀어봤으니 이제 어떻게 구현해야 하는지 어느 정도 감이 오실거예요. 한 바퀴 돌아서 다시 원래 자리로 온 경우를 파악하기 위해 방향을 바꿀때마다 카운트를 해줘야겠네요!
+</div>
+</details>
+
+<details>
+<summary>암호코드</summary>
+<div markdown="1">
+&nbsp;&nbsp;&nbsp;&nbsp;우선 경우의 수를 하나씩 찾는 풀이를 생각하셨다면 입력 범위를 다시 봅시다! 이전에 구한 경우의 수의 해답을 활용해야 해요. 또한 숫자를 검사할 때, 항상 1 ~ 26사이인지와 알파벳으로 만들 수 있는 수인지 확인하는 것이 중요해요.
+</div>
+</details>
 
 <details>
 <summary>트리의 높이와 너비</summary>
