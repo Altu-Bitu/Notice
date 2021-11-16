@@ -8,9 +8,10 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1991" target="_blank">1991</a>|<a href="https://www.acmicpc.net/problem/1991" target="_blank">트리 순회</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/4803" target="_blank">4803</a>|<a href="https://www.acmicpc.net/problem/4803" target="_blank">트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/72416" target="_blank">2021 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/72416" target="_blank">매출 하락 최소화</a>|level 4|[바로가기]()||
+|-|[트리 연산](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/16.%20%ED%8A%B8%EB%A6%AC.pdf)|-|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/tree.cpp)|트리|
+|<a href="https://www.acmicpc.net/problem/1991" target="_blank">1991</a>|<a href="https://www.acmicpc.net/problem/1991" target="_blank">트리 순회</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/1991.cpp)|트리|
+|<a href="https://www.acmicpc.net/problem/4803" target="_blank">4803</a>|<a href="https://www.acmicpc.net/problem/4803" target="_blank">트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/4803.cpp)|트리, dfs|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/72416" target="_blank">2021 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/72416" target="_blank">매출 하락 최소화</a>|level 4|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/sales.cpp)|트리 dp|
 
 ## ✏️ 과제
 
