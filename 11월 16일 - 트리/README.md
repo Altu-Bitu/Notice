@@ -10,16 +10,16 @@
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 |-|[트리 연산](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/16.%20%ED%8A%B8%EB%A6%AC.pdf)|-|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/tree.cpp)|트리|
 |<a href="https://www.acmicpc.net/problem/1991" target="_blank">1991</a>|<a href="https://www.acmicpc.net/problem/1991" target="_blank">트리 순회</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/1991.cpp)|트리|
-|<a href="https://www.acmicpc.net/problem/4803" target="_blank">4803</a>|<a href="https://www.acmicpc.net/problem/4803" target="_blank">트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/4803.cpp)|트리, dfs|
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/72416" target="_blank">2021 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/72416" target="_blank">매출 하락 최소화</a>|level 4|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/sales.cpp)|트리 dp|
+|<a href="https://www.acmicpc.net/problem/4803" target="_blank">4803</a>|<a href="https://www.acmicpc.net/problem/4803" target="_blank">트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/4803.cpp)|트리, DFS|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/72416" target="_blank">2021 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/72416" target="_blank">매출 하락 최소화</a>|level 4|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/sales.cpp)|트리 DP|
 
 ## ✏️ 과제
 
 ### 필수
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/14503" target="_blank">14503</a>|<a href="https://www.acmicpc.net/problem/14503" target="_blank">로봇 청소기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/2011" target="_blank">2011</a>|<a href="https://www.acmicpc.net/problem/2011" target="_blank">암호코드</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/14503" target="_blank">14503</a>|<a href="https://www.acmicpc.net/problem/14503" target="_blank">로봇 청소기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/14503.cpp)|구현, 시뮬레이션|
+|<a href="https://www.acmicpc.net/problem/2011" target="_blank">2011</a>|<a href="https://www.acmicpc.net/problem/2011" target="_blank">암호코드</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/2011.cpp)|DP|
 
 ---
 
@@ -27,12 +27,12 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2250" target="_blank">2250</a>|<a href="https://www.acmicpc.net/problem/2250" target="_blank">트리의 높이와 너비</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/14675" target="_blank">14675</a>|<a href="https://www.acmicpc.net/problem/14675" target="_blank">단절점과 단절선</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/20924" target="_blank">20924</a>|<a href="https://www.acmicpc.net/problem/20924" target="_blank">트리의 기둥과 가지</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1967" target="_blank">1967</a>|<a href="https://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/5639" target="_blank">5639</a>|<a href="https://www.acmicpc.net/problem/5639" target="_blank">이진 검색 트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/15681" target="_blank">15681</a>|<a href="https://www.acmicpc.net/problem/15681" target="_blank">트리와 쿼리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/2250" target="_blank">2250</a>|<a href="https://www.acmicpc.net/problem/2250" target="_blank">트리의 높이와 너비</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/2250.cpp)|트리, DFS|
+|<a href="https://www.acmicpc.net/problem/14675" target="_blank">14675</a>|<a href="https://www.acmicpc.net/problem/14675" target="_blank">단절점과 단절선</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/14675.cpp)|트리|
+|<a href="https://www.acmicpc.net/problem/20924" target="_blank">20924</a>|<a href="https://www.acmicpc.net/problem/20924" target="_blank">트리의 기둥과 가지</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/20924_1.cpp)</br>[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/20924_2.cpp)|트리, DFS, BFS|
+|<a href="https://www.acmicpc.net/problem/1967" target="_blank">1967</a>|<a href="https://www.acmicpc.net/problem/1967" target="_blank">트리의 지름</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1967.cpp)|트리, DFS|
+|<a href="https://www.acmicpc.net/problem/5639" target="_blank">5639</a>|<a href="https://www.acmicpc.net/problem/5639" target="_blank">이진 검색 트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/5639_1.cpp)</br>[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/5639_2.cpp)|트리, 분할 정복|
+|<a href="https://www.acmicpc.net/problem/15681" target="_blank">15681</a>|<a href="https://www.acmicpc.net/problem/15681" target="_blank">트리와 쿼리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2016%EC%9D%BC%20-%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/15681.cpp)|트리 DP|
 
 ---
 
@@ -95,3 +95,7 @@
 </details>
 
 ---
+
+### 코드리뷰 가이드
+
+🔗 [링크](https://educated-treatment-631.notion.site/1116-161c04069056426da5398351e4cfac84)
