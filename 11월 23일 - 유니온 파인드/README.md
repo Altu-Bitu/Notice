@@ -8,9 +8,9 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1717" target="_blank">1717</a>|<a href="https://www.acmicpc.net/problem/1717" target="_blank">집합의 표현</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/4803" target="_blank">4803</a>|<a href="https://www.acmicpc.net/problem/4803" target="_blank">트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/16562" target="_blank">16562</a>|<a href="https://www.acmicpc.net/problem/16562" target="_blank">친구비</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1717" target="_blank">1717</a>|<a href="https://www.acmicpc.net/problem/1717" target="_blank">집합의 표현</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2023%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/1717.cpp)|유니온 파인드|
+|<a href="https://www.acmicpc.net/problem/4803" target="_blank">4803</a>|<a href="https://www.acmicpc.net/problem/4803" target="_blank">트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2023%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/4803.cpp)|트리, 유니온 파인드|
+|<a href="https://www.acmicpc.net/problem/16562" target="_blank">16562</a>|<a href="https://www.acmicpc.net/problem/16562" target="_blank">친구비</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2023%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/16562.cpp)|유니온 파인드|
 
 ## ✏️ 과제
 
