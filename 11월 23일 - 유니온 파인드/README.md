@@ -18,7 +18,7 @@
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 |<a href="https://www.acmicpc.net/problem/1976" target="_blank">1976</a>|<a href="https://www.acmicpc.net/problem/1976" target="_blank">여행 가자</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/12905" target="_blank">14675</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/12905" target="_blank">가장 큰 정사각형 찾기</a>|Level 2|[바로가기]()||
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/12905" target="_blank"></a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/12905" target="_blank">가장 큰 정사각형 찾기</a>|Level 2|[바로가기]()||
 
 ---
 
