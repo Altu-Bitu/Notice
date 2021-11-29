@@ -17,8 +17,8 @@
 ### 필수
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/16236" target="_blank">16236</a>|<a href="https://www.acmicpc.net/problem/16236" target="_blank">아기 상어</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/18111" target="_blank">18111</a>|<a href="https://www.acmicpc.net/problem/18111" target="_blank">마인크래프트</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/16236" target="_blank">16236</a>|<a href="https://www.acmicpc.net/problem/16236" target="_blank">아기 상어</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2023%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/16236.cpp)|구현, 시뮬레이션, BFS|
+|<a href="https://www.acmicpc.net/problem/18111" target="_blank">18111</a>|<a href="https://www.acmicpc.net/problem/18111" target="_blank">마인크래프트</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2023%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/18111.cpp)|구현, 브루트포스|
 
 ---
 
@@ -26,12 +26,12 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1043" target="_blank">1043</a>|<a href="https://www.acmicpc.net/problem/1043" target="_blank">거짓말</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1976" target="_blank">1976</a>|<a href="https://www.acmicpc.net/problem/1976" target="_blank">여행 가자</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/10775" target="_blank">10775</a>|<a href="https://www.acmicpc.net/problem/10775" target="_blank">공항</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/16724" target="_blank">16724</a>|<a href="https://www.acmicpc.net/problem/16724" target="_blank">피리 부는 사나이</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/20040" target="_blank">20040</a>|<a href="https://www.acmicpc.net/problem/20040" target="_blank">사이클 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/12905" target="_blank">연습문제</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/12905" target="_blank">가장 큰 정사각형 찾기</a>|Level 2|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1043" target="_blank">1043</a>|<a href="https://www.acmicpc.net/problem/1043" target="_blank">거짓말</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2023%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/1043.cpp)|유니온 파인드|
+|<a href="https://www.acmicpc.net/problem/1976" target="_blank">1976</a>|<a href="https://www.acmicpc.net/problem/1976" target="_blank">여행 가자</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2023%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/1976.cpp)|유니온 파인드|
+|<a href="https://www.acmicpc.net/problem/10775" target="_blank">10775</a>|<a href="https://www.acmicpc.net/problem/10775" target="_blank">공항</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2023%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/10775.cpp)|유니온 파인드, 그리디 알고리즘|
+|<a href="https://www.acmicpc.net/problem/16724" target="_blank">16724</a>|<a href="https://www.acmicpc.net/problem/16724" target="_blank">피리 부는 사나이</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2023%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/16724.cpp)|유니온 파인드|
+|<a href="https://www.acmicpc.net/problem/20040" target="_blank">20040</a>|<a href="https://www.acmicpc.net/problem/20040" target="_blank">사이클 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2023%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/20040.cpp)|유니온 파인드|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/12905" target="_blank">연습문제</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/12905" target="_blank">가장 큰 정사각형 찾기</a>|Level 2|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2023%EC%9D%BC%20-%20%EC%9C%A0%EB%8B%88%EC%98%A8%20%ED%8C%8C%EC%9D%B8%EB%93%9C/%EA%B3%BC%EC%A0%9C/biggestSquare.cpp)|DP|
 
 ---
 
