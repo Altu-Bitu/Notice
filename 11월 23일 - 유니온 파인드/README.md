@@ -93,3 +93,7 @@
 </details>
 
 ---
+
+### 코드리뷰 가이드
+
+🔗 [링크](https://educated-treatment-631.notion.site/1123-427074db55ff483593fe9819c320243c)
