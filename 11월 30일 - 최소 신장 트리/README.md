@@ -8,8 +8,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1197" target="_blank">1197</a>|<a href="https://www.acmicpc.net/problem/1197" target="_blank">최소 스패닝 트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/4386" target="_blank">4386</a>|<a href="https://www.acmicpc.net/problem/4386" target="_blank">별자리 만들기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1197" target="_blank">1197</a>|<a href="https://www.acmicpc.net/problem/1197" target="_blank">최소 스패닝 트리</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2030%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/1197_kruskal.cpp)</br>[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2030%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/1197_prim.cpp)|최소 신장 트리, 크루스칼, 프림|
+|<a href="https://www.acmicpc.net/problem/4386" target="_blank">4386</a>|<a href="https://www.acmicpc.net/problem/4386" target="_blank">별자리 만들기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2030%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/4386_kruskal.cpp)</br>[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2030%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/4386_prim.cpp)|최소 신장 트리, 크루스칼, 프림|
 
 ## ✏️ 과제
 
