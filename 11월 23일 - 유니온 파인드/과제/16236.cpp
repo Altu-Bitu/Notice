@@ -45,7 +45,7 @@ pair<int, ci> nextPos(int n, int shark_size, ci &shark, vector<vector<int>> &boa
     if (list.empty()) //상어가 갈 수 있는 곳이 없음
         return {min_dist, {-1, -1}};
 
-    sort(list.begin(), list.end(), [](const ci &p1, const ci &p2) { //정렬
+    sort(list.begin(), list.end(), [](const ci &p1, const ci &p2) { //정렬 (compare 함수를 정의하지 않아도 됨)
         if (p1.first != p2.first)
             return p1.first < p2.first;
         return p1.second < p2.second;
