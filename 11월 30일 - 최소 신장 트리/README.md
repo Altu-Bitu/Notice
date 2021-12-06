@@ -16,8 +16,8 @@
 ### 필수
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/16235" target="_blank">16235</a>|<a href="https://www.acmicpc.net/problem/16235" target="_blank">나무 재테크</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1713" target="_blank">1713</a>|<a href="https://www.acmicpc.net/problem/1713" target="_blank">후보 추천하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/16235" target="_blank">16235</a>|<a href="https://www.acmicpc.net/problem/16235" target="_blank">나무 재테크</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2030%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/16235.cpp)|구현, 시뮬레이션|
+|<a href="https://www.acmicpc.net/problem/1713" target="_blank">1713</a>|<a href="https://www.acmicpc.net/problem/1713" target="_blank">후보 추천하기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2030%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1713.cpp)|구현, 시뮬레이션|
 
 ---
 
@@ -25,12 +25,12 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1368" target="_blank">1368</a>|<a href="https://www.acmicpc.net/problem/1368" target="_blank">물대기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1774" target="_blank">1774</a>|<a href="https://www.acmicpc.net/problem/1774" target="_blank">우주신과의 교감</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/16202" target="_blank">16202</a>|<a href="https://www.acmicpc.net/problem/16202" target="_blank">MST 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/17472" target="_blank">17472</a>|<a href="https://www.acmicpc.net/problem/17472" target="_blank">다리 만들기 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/21924" target="_blank">21924</a>|<a href="https://www.acmicpc.net/problem/21924" target="_blank">도시 건설</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기]()||
-|<a href="https://programmers.co.kr/learn/courses/30/lessons/64063" target="_blank">2019 카카오 개발자 겨울 인턴십</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/64063" target="_blank">호텔 방 배정</a>|Level 4|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1368" target="_blank">1368</a>|<a href="https://www.acmicpc.net/problem/1368" target="_blank">물대기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2030%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1368.cpp)|최소 신장 트리, 프림|
+|<a href="https://www.acmicpc.net/problem/1774" target="_blank">1774</a>|<a href="https://www.acmicpc.net/problem/1774" target="_blank">우주신과의 교감</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2030%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/1774.cpp)|최소 신장 트리, 크루스칼|
+|<a href="https://www.acmicpc.net/problem/16202" target="_blank">16202</a>|<a href="https://www.acmicpc.net/problem/16202" target="_blank">MST 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2030%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/16202.cpp)|최소 신장 트리, 크루스칼|
+|<a href="https://www.acmicpc.net/problem/17472" target="_blank">17472</a>|<a href="https://www.acmicpc.net/problem/17472" target="_blank">다리 만들기 2</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2030%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/17472.cpp)|최소 신장 트리, 크루스칼, 브루트포스, DFS|
+|<a href="https://www.acmicpc.net/problem/21924" target="_blank">21924</a>|<a href="https://www.acmicpc.net/problem/21924" target="_blank">도시 건설</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2030%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/21924_kruskal.cpp)</br>[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2030%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/21924_prim.cpp)|최소 신장 트리, 크루스칼, 프림|
+|<a href="https://programmers.co.kr/learn/courses/30/lessons/64063" target="_blank">2019 카카오 개발자 겨울 인턴십</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/64063" target="_blank">호텔 방 배정</a>|Level 4|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/11%EC%9B%94%2030%EC%9D%BC%20-%20%EC%B5%9C%EC%86%8C%20%EC%8B%A0%EC%9E%A5%20%ED%8A%B8%EB%A6%AC/%EA%B3%BC%EC%A0%9C/hotelRoom.cpp)|최소 신장 트리, 맵|
 
 ---
 
@@ -92,3 +92,7 @@
 </details>
 
 ---
+
+### 코드리뷰 가이드
+
+🔗 [링크](https://educated-treatment-631.notion.site/1130-3097585e585b4d6aaba2f599a96cc5a1)
