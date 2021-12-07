@@ -8,8 +8,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2252" target="_blank">2252</a>|<a href="https://www.acmicpc.net/problem/2252" target="_blank">줄 세우기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]||
-|<a href="https://www.acmicpc.net/problem/1005" target="_blank">1005</a>|<a href="https://www.acmicpc.net/problem/1005" target="_blank">ACM Craft</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]||
+|<a href="https://www.acmicpc.net/problem/2252" target="_blank">2252</a>|<a href="https://www.acmicpc.net/problem/2252" target="_blank">줄 세우기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/1005" target="_blank">1005</a>|<a href="https://www.acmicpc.net/problem/1005" target="_blank">ACM Craft</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
 
 ## ✏️ 과제
 
