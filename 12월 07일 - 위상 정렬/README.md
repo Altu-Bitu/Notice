@@ -52,28 +52,28 @@
 <details>
 <summary>음악프로그램</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;그래프가 주어지는 것이 아니네요! 입력을 통해 그래프를 만드는 것이 중요해 보여요. 예를 들어, 입력으로 들어오는 가수 순서에서 3번째 가수는 1, 2번째 가수와 모두 연관이 있죠.
 </div>
 </details>
 
 <details>
 <summary>장난감 조립</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;각 부품마다 필요한 부품을 저장하는 것이 중요해요. 중간 부품의 개수가 아닌 기본 부품의 개수를 저장해야 한다는 걸 주의해야 해요. 어떤 부품이 기본 부품이 될까요?
 </div>
 </details>
 
 <details>
 <summary>리그 오브 레게노</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;문자열을 인덱스로 그래프 관계를 정의하기 위해 사용해야 할 컨테이너가 무엇인지는 파악하셨을 거예요. 위상정렬은 여러가지 결과가 가능하다 했었죠! 하지만 이 문제는 스폐셜 저지가 걸려있지 않기 때문에 문제에서 원하는 순서대로 출력하는 것이 중요해요. 더불어 시간 관리도 까다로운 문제예요. 컨테이너 사용 시, 정렬을 해 줄 필요는 없으니까 이를 없앤 새로운 컨테이너를 사용해 보면 어떨까요?
 </div>
 </details>
 
 <details>
 <summary>프로젝트 스케줄링</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;비슷한 문제를 풀었으니 어떻게 풀어야 할지 감이 오실 것 같아요. 주의해야 할 점은 입력이네요! 이전 정점이 주어지지 않을 수 있으니 어떻게 입력 받아야 할까요? 더불어 마지막 정점은 한 개라는 보장이 없으니, 모든 작업을 하는 경우를 어떻게 처리해야 할지도 신경 써야 해요.
 </div>
 </details>
 
