@@ -8,8 +8,8 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/2252" target="_blank">2252</a>|<a href="https://www.acmicpc.net/problem/2252" target="_blank">줄 세우기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
-|<a href="https://www.acmicpc.net/problem/1005" target="_blank">1005</a>|<a href="https://www.acmicpc.net/problem/1005" target="_blank">ACM Craft</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기]()||
+|<a href="https://www.acmicpc.net/problem/2252" target="_blank">2252</a>|<a href="https://www.acmicpc.net/problem/2252" target="_blank">줄 세우기</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/12%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/2252.cpp)</br>[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/12%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/2252_dfs.cpp)|위상 정렬|
+|<a href="https://www.acmicpc.net/problem/1005" target="_blank">1005</a>|<a href="https://www.acmicpc.net/problem/1005" target="_blank">ACM Craft</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/12%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EB%9D%BC%EC%9D%B4%EB%B8%8C%20%EC%BD%94%EB%94%A9/1005.cpp)|위상 정렬, DP|
 
 ## ✏️ 과제
 
