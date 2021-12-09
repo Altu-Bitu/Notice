@@ -52,7 +52,7 @@
 <details>
 <summary>음악프로그램</summary>
 <div markdown="1">
-&nbsp;&nbsp;&nbsp;&nbsp;그래프가 주어지는 것이 아니네요! 입력을 통해 그래프를 만드는 것이 중요해 보여요. 예를 들어, 입력으로 들어오는 가수 순서에서 3번째 가수는 1, 2번째 가수와 모두 연관이 있죠.
+&nbsp;&nbsp;&nbsp;&nbsp;그래프가 주어지는 것이 아니네요! 입력을 통해 그래프를 만드는 것이 중요해 보여요. 
 </div>
 </details>
 
