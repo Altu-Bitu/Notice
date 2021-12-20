@@ -17,7 +17,7 @@
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 |<a href="https://programmers.co.kr/learn/courses/30/lessons/72415" target="_blank">2021 KAKAO BLIND RECRUITMENT</a>|<a href="https://programmers.co.kr/learn/courses/30/lessons/72415" target="_blank">카드 짝 맞추기</a>|Level 3|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/12%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/cardMatch.cpp)|BFS, 브루트 포스, 순열|
-|<a href="https://www.acmicpc.net/problem/3085" target="_blank">3085</a>|<a href="https://www.acmicpc.net/problem/3085" target="_blank">사탕 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/12%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/3085.cpp)|구현, 시뮬레이션|
+|<a href="https://www.acmicpc.net/problem/3085" target="_blank">3085</a>|<a href="https://www.acmicpc.net/problem/3085" target="_blank">사탕 게임</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/12%EC%9B%94%2007%EC%9D%BC%20-%20%EC%9C%84%EC%83%81%20%EC%A0%95%EB%A0%AC/%EA%B3%BC%EC%A0%9C/3085.cpp)|구현, 브루트 |
 
 ---
 
