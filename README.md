@@ -16,7 +16,7 @@ SW학부 원스탑 튜터링에서 진행하는 코딩 테스트 대비 알고�
 ## ✏️ 커리큘럼   
 |    날짜    | 주제 | 담당 튜터 | 강의 자료 | 문제 |
 |:----------:|:----:|:---------:|:---------:|:----:|
-| 2021.08.31 |  OT  |     -     |[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/0.%20OT.pdf)|-|
+| 2021.08.31 |  OT  |     -     |[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/00.%20OT.pdf)|-|
 | 2021.09.03 |정렬|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/01.%20%EC%A0%95%EB%A0%AC.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/09%EC%9B%94%2003%EC%9D%BC%20-%20%EC%A0%95%EB%A0%AC)|
 | 2021.09.07 |맵과 셋|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02.%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/09%EC%9B%94%2007%EC%9D%BC%20-%20%EB%A7%B5%EA%B3%BC%20%EC%85%8B)|
 | 2021.09.10 |스택, 큐, 덱|[@HyunJiLim0406](https://github.com/HyunJiLim0406)|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/03.%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1.pdf)|[바로가기](https://github.com/Altu-Bitu/Notice/tree/main/09%EC%9B%94%2010%EC%9D%BC%20-%20%EC%8A%A4%ED%83%9D%2C%20%ED%81%90%2C%20%EB%8D%B1)|
