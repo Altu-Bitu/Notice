@@ -70,7 +70,7 @@
 </details>
 
 <details>
-<summary>국영수</summary>
+<summary>영단어 암기는 괴로워</summary>
 <div markdown="1">
 &nbsp;&nbsp;&nbsp;&nbsp;영단어에 대한 조건이 많네요. 비슷한 문제를 풀었던 것 같지 않나요? 단어 횟수 카운트도 전에 배운 컨테이너 중 하나를 활용할 수 있을 것 같아요.
 </div>
