@@ -18,7 +18,7 @@
 
 |문제 번호|문제 이름|난이도|풀이 링크|분류|
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/20055" target="_blank">20055</a>|<a href="https://www.acmicpc.net/problem/20055" target="_blank">컨베이어 벨트 위의 로봇</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/09%EC%9B%94%2021%EC%9D%BC%20-%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4/%EA%B3%BC%EC%A0%9C/20055.cpp)|구현, 시뮬레이션|
+|<a href="https://www.acmicpc.net/problem/20055" target="_blank">20055</a>|<a href="https://www.acmicpc.net/problem/20055" target="_blank">컨베이어 벨트 위의 로봇</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/09%EC%9B%94%2021%EC%9D%BC%20-%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4/%EA%B3%BC%EC%A0%9C/20055.cpp)|구현, 시뮬레이션|
 |<a href="https://www.acmicpc.net/problem/2108" target="_blank">2108</a>|<a href="https://www.acmicpc.net/problem/2108" target="_blank">통계학</a>|<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>|[바로가기](https://github.com/Altu-Bitu/Notice/blob/main/09%EC%9B%94%2021%EC%9D%BC%20-%20%EB%B8%8C%EB%A3%A8%ED%8A%B8%20%ED%8F%AC%EC%8A%A4/%EA%B3%BC%EC%A0%9C/2108.cpp)|구현|
 
 ---
